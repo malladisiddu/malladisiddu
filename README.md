@@ -2,4 +2,4 @@
 
 
 - 🔭 I’m currently working on my own open source project ZCrypt -  Basic Decryption Tool.
-- 🌱 I’m currently learning MITRE ATT&CK
+- 🌱 Also I’m working on MITRE ATT&CK Framework.
